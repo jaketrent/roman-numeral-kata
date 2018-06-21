@@ -1,0 +1,20 @@
+{
+  "name": "tdd-workhouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "npm run test -- --watch"
+  },
+  "keywords": [],
+  "author": "jaketrent",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-flow": "^6.23.0",
+    "flow-bin": "^0.74.0",
+    "flow-typed": "^2.4.0",
+    "jest": "^23.1.0"
+  }
+}
